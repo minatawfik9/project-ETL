@@ -2,8 +2,7 @@
 # 📊 **Sales & Operations Dashboard** – Power BI Project
 
 ### 🔗 [My LinkedIn](https://www.linkedin.com/in/minatawfik9/)
-### 📥 [Download the PBIX File](https://github.com/minatawfik9/your-repo/blob/main/assets/sales-dashboard.pbix?raw=true)
-### 🌐 [View Interactive Dashboard](https://your-dashboard-link.com)
+
 
 <br>
 <div align="center">
@@ -72,10 +71,6 @@ This dashboard was created to solve real-world challenges faced by business stak
 
 ---
 
-## 📐 Data Model  
-![Data Model](https://github.com/minatawfik9/your-repo/blob/main/assets/data-model.png?raw=true)
-
----
 
 ## 📈 Dashboard Preview  
 ### 🎥 Dashboard Demo  
