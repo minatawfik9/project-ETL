@@ -1,5 +1,5 @@
 # Project-ETL
-# 📊 **Sales & Operations Dashboard** – Power BI Project
+# 📊 **Sales & Operations Dashboard** – ETL Project
 
 ### 🔗 [My LinkedIn](https://www.linkedin.com/in/minatawfik9/)
 
