@@ -78,8 +78,8 @@ This dashboard was created to solve real-world challenges faced by business stak
 ---
 
 ## 📈 Dashboard Preview  
-<img src="https://github.com/minatawfik9/your-repo/blob/main/assets/dashboard-1.png?raw=true" width="1000">
-<img src="https://github.com/minatawfik9/your-repo/blob/main/assets/dashboard-2.png?raw=true" width="1000">
+### 🎥 Dashboard Demo  
+<img src="https://github.com/minatawfik9/your-repo/blob/main/assets/demo.gif?raw=true" width="1000">
 
 ---
 
