@@ -16,7 +16,7 @@
   <summary><strong>📌 Overview (click)</strong></summary>
 
 ### *Overview*  
-> This Power BI project analyzes company sales and operational data to uncover trends, performance gaps, and growth opportunities.  
+> This ETL analyzes company sales and operational data to uncover trends, performance gaps, and growth opportunities.  
 > The dashboard focuses on **revenue performance**, **customer behavior**, **product segmentation**, and **regional insights** to empower business decisions.
 
 </details>
@@ -97,8 +97,7 @@ This dashboard showcases how Power BI can turn raw business data into actionable
 
 ---
 
-## 🧰 Tools Used
-- **Power BI Desktop**  
+## 🧰 Tools Used 
 - **Power Query**  
 - **DAX**  
 - **Microsoft Excel**
